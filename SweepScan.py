@@ -3,7 +3,7 @@ import time
 import sys
 import os
 import nmap
-#This is a personal project I wanted to put some of my Python skills to the test, expirement with networking libraries, 
+#This is a personal project I made to put some of my Python skills to the test, expirement with networking libraries, 
 #and gain a better understanding of nmap. The concept for this tool is simple yet effective: look for all of the IPs on 
 #a subnet, scan the ones that are online, and then store each IP scan into a file the user can come back to later. 
 #It was a fun little project that does its job!
